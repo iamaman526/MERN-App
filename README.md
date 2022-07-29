@@ -93,4 +93,4 @@ MINIMUM:<br/>
 ● Hard Disk: 50GB or above<br/>
 ● Network: 20 Mbps or above<br/>
 
-<h4>Developed by: <a href="https://www.linkedin.com/in/shahbazcse/" target="_blank">Shahbaz Ahmad</a></h4>
+<h4>Developed by: <a href="https://www.linkedin.com/in/aman-kumar-9594661a7/" target="_blank">Aman Kumar</a></h4>
